@@ -23,6 +23,7 @@ int main (void)
         failurecount++;
     }
 
+    //Converting gradetotal to floating point using type cast operator
     average = (float) gradetotal / numberofgrades;
 
     printf ("\nGrade Total = %i\n", gradetotal);
