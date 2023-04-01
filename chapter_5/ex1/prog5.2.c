@@ -25,7 +25,8 @@ int main (void)
 
     average = (float) gradetotal / numberofgrades;
 
-    printf ("\nGrade average = %.2f\n", average);
+    printf ("\nGrade Total = %i\n", gradetotal);
+    printf ("Grade average = %.2f\n", average);
     printf ("Number of failures = %i\n", failurecount);
 
     return 0;
