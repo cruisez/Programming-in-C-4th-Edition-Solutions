@@ -27,6 +27,7 @@ int main (void)
     average = (float) gradetotal / numberofgrades;
 
     printf ("\nGrade Total = %i\n", gradetotal);
+    //The precision modifier .2 is used to cause the value of average to be displayed to two decimal places
     printf ("Grade average = %.2f\n", average);
     printf ("Number of failures = %i\n", failurecount);
 
