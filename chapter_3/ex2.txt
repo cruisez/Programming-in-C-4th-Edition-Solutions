@@ -1,0 +1,20 @@
+// 2.Which of the following are invalid variable names? Why?
+
+/*
+Int  
+char     
+6_05
+Calloc         
+Xx       
+alpha_beta_routinefloating       
+_1312    
+z
+ReInitialize   
+_        
+A$
+*/
+
+// 1. char - is a reserved word
+// 2. 6_05 - variable name cannot start with number
+// 3. A$   -   $ is not a valid character
+
