@@ -1,3 +1,5 @@
+// Generating a Table of Prime Numbers
+
 #include <stdio.h>
 #include <stdbool.h>
 
